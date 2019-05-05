@@ -5,8 +5,8 @@ navbar:
   left:
   - text: "Home"
    href: index.html
-  - text: "Speed and Distance"
-   href: speed-and-distance.html
+  - text: "Summer_Programming_with_R_Test_1"
+   href: Summer_Programming_with_R_Test_1_SamMori_070917.html
 output:
   html_document:
  theme: cosmo
